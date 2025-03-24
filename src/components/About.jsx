@@ -56,17 +56,14 @@ const About = () => {
             </div>
             <div className='mt-12 flex justify-between text-center'>
               <div>
-                <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>2+</h3>
+                <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>0+</h3>
                 <p>Years Experience</p>
               </div>
               <div>
                 <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>5+</h3>
                 <p>Projects Completed</p>
               </div>
-              <div>
-                <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>6+</h3>
-                <p>Happy Clients</p>
-              </div>
+              
             </div>
           </div>
         </div>
